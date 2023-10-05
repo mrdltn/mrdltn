@@ -41,3 +41,7 @@
 ---
 
 📫 You can reach me: <a href="mailto:mrdltn@hotmail.com">e-mail</a> | <a href="https://t.me/mirdltn" rel="nofollow">Telegram</a>
+
+---
+
+![](https://komarev.com/ghpvc/?username=mrdltn&color=blue&style=for-the-badge)
