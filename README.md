@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### :octocat: I'm Miroslav
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1500&width=435&lines=web-developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1500&width=435&lines=frontend-developer)](https://git.io/typing-svg)
 ---
 
 ### :man_technologist: About Me :
